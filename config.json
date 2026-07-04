@@ -1,0 +1,21 @@
+{
+  "pincode": "380006",
+  "products": [
+    {
+      "name": "Armaf Women Signature Night EDP 100ml",
+      "url": "https://www.myntra.com/perfume/armaf/armaf-women-signature-night-eau-de-parfum-100-ml/18108470/buy",
+      "target_price": 1000
+    },
+    {
+      "name": "Bone Anthony Men Old Money EDP 50ml",
+      "url": "https://www.myntra.com/perfume/bone+anthony/bone-anthony-men-old-money-long-lasting-eau-de-parfum---50-ml/41734161/buy",
+      "target_price": 600
+    }
+  ],
+  "notify": {
+    "method": "telegram",
+    "bot_token": "PUT_YOUR_TELEGRAM_BOT_TOKEN_HERE",
+    "chat_id": "PUT_YOUR_TELEGRAM_CHAT_ID_HERE"
+  },
+  "state_file": "state.json"
+}
